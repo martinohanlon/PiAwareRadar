@@ -4,7 +4,7 @@
 
 ##Description
 A radar for PiAware showing the aircraft being picked up around your gps position.
-[http://www.stuffaboutcode.com/2015/11/piaware-radar.html](http://www.stuffaboutcode.com/2015/11/piaware-radar.html)
+[http://www.stuffaboutcode.com/2015/11/raspberry-pi-piaware-aircraft-radar.html](http://www.stuffaboutcode.com/2015/11/raspberry-pi-piaware-aircraft-radar.html)
 
 ##Structure
 * piawareradar
