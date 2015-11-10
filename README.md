@@ -23,19 +23,19 @@ A radar for PiAware showing the aircraft being picked up around your gps positio
 
 ##Usage
 
-usage: piawareradar.py [-h] [--piawareip PIAWAREIP] [--screen SCREEN] [--fullscreen] lat lon
+    usage: piawareradar.py [-h] [--piawareip PIAWAREIP] [--screen SCREEN] [--fullscreen] lat lon
+    
+    PiAware Flight Radar
+    
+    positional arguments:
+      lat                   The latitude of the receiver
+      lon                   The longitude of the receiver
 
-PiAware Flight Radar
-
-positional arguments:
-  lat                   The latitude of the receiver
-  lon                   The longitude of the receiver
-
-optional arguments:
-  -h, --help            show this help message and exit
-  --piawareip PIAWAREIP The ip address of the piaware server
-  --screen SCREEN       The screen config to use [normal / touch]
-  --fullscreen          Fullscreen radar
+    optional arguments:
+      -h, --help            show this help message and exit
+      --piawareip PIAWAREIP The ip address of the piaware server
+      --screen SCREEN       The screen config to use [normal / touch]
+      --fullscreen          Fullscreen radar
     
 ##Run
 
